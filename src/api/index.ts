@@ -1,0 +1,1 @@
+export { getReq } from './getReq'
